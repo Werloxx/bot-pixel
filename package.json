@@ -1,0 +1,9 @@
+{
+  "name": "Wer-BOT's",
+  "version": "0.0.1",
+  "description": "A bot for Discord",
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Werloxx/bot-pixel"
+  },
